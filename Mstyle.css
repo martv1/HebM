@@ -200,7 +200,7 @@ a {
 a:hover button{
     text-decoration: white;
 }
-@media (max-width: 700px) {
+@media (max-width: 701px) {
     .Img {
         position: relative;
         top: 560px;
